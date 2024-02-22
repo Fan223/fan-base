@@ -20,7 +20,7 @@ import java.util.concurrent.TimeUnit;
  * @since 2024/2/21 15:53
  */
 @Component
-@SuppressWarnings("unused")
+@SuppressWarnings({"unused", "UnusedReturnValue"})
 public class RedisUtil {
 
     private static final Logger logger = LoggerFactory.getLogger(RedisUtil.class);

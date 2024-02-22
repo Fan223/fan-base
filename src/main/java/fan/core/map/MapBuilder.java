@@ -10,7 +10,7 @@ import java.util.Map;
  * @author Fan
  * @since 2024/2/20 14:25
  */
-@SuppressWarnings("unused")
+@SuppressWarnings({"unused", "UnusedReturnValue"})
 public class MapBuilder<K, V> implements Builder<Map<K, V>> {
 
     private final Map<K, V> map;
