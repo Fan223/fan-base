@@ -5,12 +5,12 @@
     <parent>
         <groupId>fan</groupId>
         <artifactId>fan-dependencies</artifactId>
-        <version>2.0</version>
+        <version>1.1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
     <artifactId>fan-base</artifactId>
-    <version>2.0</version>
+    <version>1.1</version>
 
     <name>fan-base</name>
     <description>fan-base</description>
